@@ -35,7 +35,7 @@ This example will wait the user scroll 200 px before shrinking the headers.
 It's also useful to add css padding top to the content to make sure it doesn't go up under the bar:
 
 ```html
-<ion-content style="top:0; padding-top:50px">
+<ion-content header-shrink style="top:0; padding-top:50px">
 </ion-content>
 ```
 
